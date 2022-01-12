@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have worked on 63 projects in my life, 41 of them got cancelled. :)
 
 Click [here](https://twitter.com/OfficialSwagat7) to go to my Twitter profile. 
+Click [here](https://stackoverflow.com/users/17914888/officialswagat) to go to my StackOverflow profile. 
+Click [here](https://dev.to/officialswagat) to go to my Dev.to profile. 
